@@ -10,7 +10,7 @@ The login system app is a student score board that allows every student to login
 * Nodemon(server)
 
 ## Run app
-* git clone 
+* git clone `git@github.com:oluyaratosin123/Login-System.git`
 * cd Login-System
 * npm start (start node on server)
 
