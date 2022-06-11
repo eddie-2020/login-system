@@ -1,0 +1,16 @@
+<%- include('header') -%>
+
+<div class="text-center" id="login">
+    <nav class="nav-bar">
+        <a href="/route/logout" class="bg-secondary text-light fixed-top fs-4 d-flex justify-content-center btn-lg p-3">Logout</a>
+    </nav>
+
+    </nav>
+    <div class="container mt-5 center-div">
+        <h1 class="mt-5">Welcome to Our Student Dashboard</h1>
+        <h5><%= locals.user ? user : "User" %></h5>
+ 
+    </div>
+</div>
+
+<%- include('footer') -%>

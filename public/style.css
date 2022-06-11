@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Blaka&family=Lobster&family=Poppins:wght@200&family=Roboto:wght@300;700&family=Signika+Negative&display=swap');
+
+body {
+    font-family: 'Signika Negative', sans-serif;
+    background-image: url(./assets/pexels-moose-photos-1037995.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+
+.center-div {
+    padding-top: 10%;
+}
+
+a {
+    text-decoration: none;
+}
+
+.btn.btn-success {
+    padding: .4em 2em;
+}
+
+form {
+    padding: 0 3em;
+}
+
+#login .title > span {
+    font-size: 1.2em;
+    color: grey;
+}
