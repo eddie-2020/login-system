@@ -9,6 +9,11 @@ The login system app is a student score board that allows every student to login
 * Language (Express, Node)
 * Nodemon(server)
 
+## Run app
+* git clone 
+* cd Login-System
+* npm start (start node on server)
+
 ## Installation
 * Node.js
 * npm
