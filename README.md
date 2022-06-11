@@ -3,6 +3,8 @@ The login system app is a student score board that allows every student to login
 
 > NOTE: the dashboard is under contruction
 
+![](./public/assets/login_page.PNG)
+
 ## Technologies Used
 * Language (Express, Node)
 * Nodemon(server)
